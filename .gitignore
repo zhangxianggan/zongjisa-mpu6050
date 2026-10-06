@@ -1,0 +1,14 @@
+# ESP-IDF build outputs and local configuration
+/build/
+/sdkconfig
+/sdkconfig.old
+/managed_components/
+/dependencies.lock
+
+# Local editor and temporary files
+/.vscode/
+/.clangd
+/tmp/
+/web/server*.log
+__pycache__/
+*.py[cod]
